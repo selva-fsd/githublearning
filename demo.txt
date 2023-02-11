@@ -1,1 +1,4 @@
 this is a github learning session
+this my second line
+this is my thrid line
+im in developer
